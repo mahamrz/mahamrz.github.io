@@ -1,0 +1,4 @@
+baseURL = "https://mahamrz.github.io/"
+languageCode = "en-us"
+title = "My PhD Blog"
+theme = "PaperMod"
